@@ -1,6 +1,3 @@
-Sure! Here's your updated README with **all the "Upcoming" features marked as Done ✅**:
-
----
 
 # 💼 Jobify – Online Job Portal (WIP)
 
@@ -118,6 +115,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 A working demo will be hosted soon on GitHub Pages or Render. Stay tuned!
 
----
-
-Let me know if you'd like a badge section, GitHub stats, or GitHub Actions deployment instructions!
